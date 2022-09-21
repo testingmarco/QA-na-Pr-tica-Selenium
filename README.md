@@ -7,5 +7,7 @@ Teste Automatizado Web com Selenium
 Disidgn patterns
 
 PageObjects
+
 PageFactory
+
 PageFluent
