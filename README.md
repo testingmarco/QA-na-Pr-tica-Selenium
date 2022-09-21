@@ -4,8 +4,8 @@ Curso de automação de testes com Julio de lima
 
 Teste Automatizado Web com Selenium
 
-Disidne patterns
+Disidgn patterns
 
-. PageObjects
-. PageFactory
-. PageFluent
+PageObjects
+PageFactory
+PageFluent
